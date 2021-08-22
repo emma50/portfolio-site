@@ -135,6 +135,9 @@ h1 { font-size: var(--fs-h3); }
   margin-bottom: 2em;
 }
 
+.stack {
+  color: var(--clr-accent);
+}
 
 /* header */
 header {
