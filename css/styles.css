@@ -334,7 +334,7 @@ header {
   }
 
   .service + .service {
-    margin-left: 2em;
+    margin-left: 4em;
   }
 }
 
